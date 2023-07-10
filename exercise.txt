@@ -1,0 +1,17 @@
+write a program to findout BMI (Body to mass index) from given weight and height
+
+2) Accept Trip Km, Available Petrol, Tank Capacity, Average per liter from user. and then calculate and display how many liter petrol user has to fill in vehical tank. 
+
+Input 
+Trip Km 500
+Available Petrol in tank = 3
+Tank Capacity = 10
+Average per liter  = 50 
+
+use simple decision making statement if 
+
+3) write a program to findout whether shape is square or not using given length & width.
+
+4) write a program to findout larger triangle from triangle using given height & base 
+
+5) write a program to convert 24 hour format time into twelve hour format time. 
