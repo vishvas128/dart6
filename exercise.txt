@@ -15,3 +15,23 @@ use simple decision making statement if
 4) write a program to findout larger triangle from triangle using given height & base 
 
 5) write a program to convert 24 hour format time into twelve hour format time. 
+
+6) write a program to findout whether given letter is vowel or consenent. 
+
+7) write a program to find zodiac  sign from given birthdate. 
+    Aries (March 21 – April 19)
+    Taurus (April 20 – May 20)
+    Gemini (May 21 – June 20)
+    Cancer (June 21 – July 22)
+    Leo (July 23 – August 22)
+    Virgo (August 23 – September 22)
+    Libra (September 23 – October 22)
+    Scorpio (October 23 – November 21)
+    Sagittarius (November 22 – December 21)
+    Capricorn (December 22 – January 19)
+    Aquarius (January 20 – February 18)
+    Pisces (February 19 – March 20)
+9) write a program to develop match making dart program from male and female birth date as per  below link 
+https://i.pinimg.com/736x/5d/6d/79/5d6d798339b17a5248cd1d9e462dd03b.jpg
+
+8) write a program to findout whether given year is leap year or not. 

@@ -2,7 +2,7 @@
 void main() {
   //declaration of constant
   //1st method
-  final NAME = "the easylearn academy";
+  final NAME = "the easylearn academy"; //String (Ineffered typing)
   print(NAME);
 
   //2nd method
@@ -10,7 +10,7 @@ void main() {
   print(CODE);
 
   //3rd method
-  const GENDER = true;
+  const GENDER = true; //boolean (Ineffered typing)
   print(GENDER);
   //4th method
   const double PI = 3.14;
