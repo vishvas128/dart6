@@ -5,6 +5,9 @@ void main() {
   int month = 0;
   print("enter month of calendar year...");
   month = int.parse(stdin.readLineSync().toString());
+  print("Enter your name");
+  String name = stdin.readLineSync().toString();
+
   if (month == 2) {
     print('this month has 28/29 days in any year');
   } else if (month == 4 || month == 6 || month == 9 || month == 11) {

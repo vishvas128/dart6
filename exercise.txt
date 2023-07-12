@@ -35,3 +35,10 @@ use simple decision making statement if
 https://i.pinimg.com/736x/5d/6d/79/5d6d798339b17a5248cd1d9e462dd03b.jpg
 
 8) write a program to findout whether given year is leap year or not. 
+
+9) write a program to accept planet name in our solar system from user. and then display disitance from earth to that planet. 
+// Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
+
+10) write a program to findout predecessor and successor of given number. 
+
+11) write a program to findout largest cyliendar (in terms of area) from 3 given cyliendar radius and height. 
