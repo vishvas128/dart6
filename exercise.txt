@@ -42,3 +42,5 @@ https://i.pinimg.com/736x/5d/6d/79/5d6d798339b17a5248cd1d9e462dd03b.jpg
 10) write a program to findout predecessor and successor of given number. 
 
 11) write a program to findout largest cyliendar (in terms of area) from 3 given cyliendar radius and height. 
+
+12) write a program to findout whether given year is millinium year or not.
