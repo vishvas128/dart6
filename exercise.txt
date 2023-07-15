@@ -55,3 +55,20 @@ loop
 15) write a program to print following pattern 
     9 10 11     19 20 21    29 30 31 ...... 100
 
+16) write a program to reverse given amount
+amount = 112233
+output = 332211
+
+17) write a program to make sum of all digits 
+amount = 12389
+output = 23
+
+18) write a program to findout whether given number is armstrong number or not
+amount = 153 
+1 5 3 
+1x1x1 +  5x5x5 + 3x3x3 = 153
+
+19) write a program to convert given number into binary digits 
+number = 12
+binary = 1100
+
