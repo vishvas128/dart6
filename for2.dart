@@ -9,13 +9,14 @@ void main() {
   int number = int.parse(stdin.readLineSync().toString()); //6
   int sum = 0;
   int reminder = 0;
-  for (int divider = 1; divider < number; divider = divider + 1) {
+  for (int divider = 1; divider < number; divider = divider + 1)
+  {
     reminder = number % divider; //0
     if (reminder == 0) {
       sum = sum + divider; //1
     }
   }
-  if (sum == number || (number>0 && number<=4)) {
+  if (sum == number || (number > 0 && number <= 4)) {
     print("it is perfect number");
   } else {
     print("it is not perfect number");
