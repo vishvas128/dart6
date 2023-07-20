@@ -81,3 +81,13 @@ binary = 1100
 23) write a program to print following series using for loop 
 3, 0, 2, 3, 2, 5, 5, 7, 10, 12, 17, 22, 29, 39, 51, 68, 90, 119, 158
 
+24) write a program to findout whether given value exist in list or not. if value found display its position. if value not found display message no such value exists develop this example using for in loop.
+
+25) write a program to make sum of all even values in list. develop this example using for in loop.
+
+26) write a program to count no of odd and even values in list. develop this example using for in loop.
+
+
+
+
+
