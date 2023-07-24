@@ -87,6 +87,16 @@ binary = 1100
 
 26) write a program to count no of odd and even values in list. develop this example using for in loop.
 
+27) write a program to create function 
+    getKb (int bytes)  which return KB of given bytes 
+    getMb (int bytes)  which return MB of given bytes 
+    getGb (int bytes)  which return Gb of given bytes 
+
+28) write a program to create function 
+    toDollar(int rupees) which return Dollar of given rupees 
+    toPound(int rupees) which return Pound of given rupees 
+    toEuro(int rupees) which return Euro of given rupees 
+
 
 
 
