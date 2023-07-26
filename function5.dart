@@ -1,6 +1,5 @@
 //write a program to print floyd triangle
 import 'dart:io';
-
 //without argument without return value function
 void write_floyd_triangle() {
   int num = 1;
@@ -12,7 +11,6 @@ void write_floyd_triangle() {
     print("");
   }
 }
-
 void main() {
   write_floyd_triangle();
 }
