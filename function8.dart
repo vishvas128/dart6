@@ -18,6 +18,7 @@ void print_pattern() {
     answer = answer + first;
   }
   // print(answer);
+  
   // first = answer;
   // answer = answer + second; //11
   // print(answer);
