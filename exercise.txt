@@ -97,7 +97,11 @@ binary = 1100
     toPound(int rupees) which return Pound of given rupees 
     toEuro(int rupees) which return Euro of given rupees 
 
+29) Filter all the millinium year from list which has 20 years 
 
+30) Filter list of planets between sun and earth from list of all planets in our solar system. 
 
+31) Filter list of planets which is bigger then earth from list of all planets in our solar system. 
 
+32)
 
