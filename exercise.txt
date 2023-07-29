@@ -103,5 +103,10 @@ binary = 1100
 
 31) Filter list of planets which is bigger then earth from list of all planets in our solar system. 
 
-32)
+32) create function getBytes which has 3 arguments GB, MB AND KB and it returns total bytes of given GB,MB,KB, MB and KB should be optional 
 
+33) create function getDays which has 3 arguments Year,Month,weeks,days and it returns total days of given input Month,weeks,days should be optional 
+
+34) create function that return total foots from 3 named optional argument. these optinal arguments are Mile,Km,Meter 
+
+35) create function that return total Rs from 4 named optional argument. these optinal arguments are  dollar, pound, Yen, Euro 
